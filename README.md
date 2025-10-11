@@ -5,8 +5,8 @@
 
 #### Skillset and Expertise
 
-- **Cloud Computing**: Expertise in building scalable, multi-cloud applications using AWS, Azure, and GCP.
 - **Product Development**: Proven track record of developing high-revenue, impactful, mobile-first applications.
+- **Cloud Computing**: Experience in building scalable, cloud applications using GCP.
 - **User Research & Data Analytics**: Skilled in conducting user research and data analytics to inform and drive product development decisions.
 
 <h1 align="center">Feel free to connect with me for collaboration, networking, or any professional inquiries through below mediums.</h1>
