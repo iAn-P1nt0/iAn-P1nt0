@@ -5,9 +5,9 @@
 
 #### Skillset and Expertise
 
-- **Product Development**: Proven track record of developing high-revenue, impactful, mobile-first applications.
-- **Cloud Computing**: Experience in building scalable, cloud applications using GCP.
-- **User Research & Data Analytics**: Skilled in conducting user research and data analytics to inform and drive product development decisions.
+- **Product Development**: mobile-first applications.
+- **Cloud Computing**: Experience in building cloud applications using GCP.
+- **User Research & Data Analytics**: Knowledge of user research and data analytics to inform and drive product development decisions.
 
 <h1 align="center">Feel free to connect with me for collaboration, networking, or any professional inquiries through below mediums.</h1>
 
