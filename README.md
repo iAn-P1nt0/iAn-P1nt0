@@ -9,7 +9,7 @@
 - **Cloud Computing**: Experience in building cloud applications using GCP.
 - **User Research & Data Analytics**: Knowledge of user research and data analytics to inform and drive product development decisions.
 
-<h1 align="center">Currently focusing on building privacy first applications for individual and business use cases.</h1>
+<h1 align="center">Currently focusing on building privacy first and utilitarian applications for individual and business use cases.</h1>
 
 <a href="https://github.com/iAn-Pinto" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
