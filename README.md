@@ -5,6 +5,7 @@
 
 #### Skillset and Expertise
 
+- **OSS**:Privacy first and utilitarian applications for individual and business use cases.
 - **Product Development**: mobile-first applications.
 - **Cloud Computing**: Experience in building cloud applications using GCP.
 - **User Research & Data Analytics**: Knowledge of user research and data analytics to inform and drive product development decisions.
